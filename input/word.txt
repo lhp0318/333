@@ -1,0 +1,6 @@
+hadoop hadoop
+scala scala
+zookeeper
+kafka kafka kafka
+flume flume flume scalc
+spark
